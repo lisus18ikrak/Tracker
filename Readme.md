@@ -16,20 +16,24 @@
 
 ### Step 2:
 
-    Locate to the directory where python file is located 📂
+    git clone https://github.com/lisus18ikrak/Tracker.git && cd Tracker
 
 ### Step 3:
+    
+    pip3 install -r requirments.txt
+    
+### Step 4:
 
     Run the command: python Tracker.py/python3 Tracker.py 🧐
 
-### Step 4:
+### Step 5:
 
     Enter the Phone number with country code whose location and service provider is to be found
 
-### Step 5:
+### Step 6:
 
     Sit back and Relax. Let the Script do the Job. ☕
 
-## The Script is Yours.. Happy Hacking 👨🏻‍💻
+##  Happy Hacking 👨🏻‍💻
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
